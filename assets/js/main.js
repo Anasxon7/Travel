@@ -126,8 +126,6 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
            .place__card,
            .sponsor__content,
            .footer__data, .footer__rights`,{
-            
-
     origin: 'top',
     interval: 100,
 })
